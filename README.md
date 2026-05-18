@@ -174,7 +174,7 @@ Manual control:
 1. Open `index.html` in a browser to view the main homepage.
 2. Navigate using the top menu to `services.html`, `news.html`, `tourism.html`, or `contact.html`.
 3. The `styles/styles.css` file controls the look of every page.
-4. The `scripts/script.js` file only manages the homepage slider.
+4. The `scripts/script.js` file only manages the homepage slideshow.
 
 ## Recommended Enhancements
 
